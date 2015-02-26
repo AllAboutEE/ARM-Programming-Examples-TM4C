@@ -3,3 +3,5 @@ project_*
 Backup of*
 settings/
 workspace.eww
+*.dep
+*.e*
